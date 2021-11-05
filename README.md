@@ -1,4 +1,4 @@
-# diceware_genorator
+# diceware_generator
 a program to facilitate the generation of random diceware passwords.
 as of now it is only a simple number generator. it gernerates a 5 digit number that representes 5 dice rolls to obtain a random 5 digit number, and match that number with the corrisponding word in the diceware wordlist.txt
 
