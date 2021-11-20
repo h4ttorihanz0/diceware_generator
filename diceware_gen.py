@@ -1,12 +1,10 @@
 import random
 
 def get_num():
-    x = random.randrange(1, 7)
-    x1 = random.randrange(1, 7)
-    x2 = random.randrange(1, 7)
-    x3 = random.randrange(1, 7)
-    x4 = random.randrange(1, 7)
-
-    print(x,x1,x2,x3,x4)
+    listz = [1,2,3,4]
+    for x in listz:
+        print(random.randrange(1,7))
+    
+    print(x)
 
 get_num()
